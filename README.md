@@ -3,7 +3,7 @@
 ### Practice understanding the Figures and Captioning Figures of a webpage
 
 -   [ ] Simple practice to gain a better understanding of the purpose of the &lt;br&gt; elelment and the &lt;hr&gt; element, along with how they would affect my webppage
-    -   [ ] Most sites use elements to add spacing that would appear on the webpage between similar groups of code
+    -   [ ] Most sites use elements to shift code down and add a dividing line that would appear on the webpage between similar groups of code
     -   [ ] The &lt;br&gt; element is what will move the text down on the webpage, the &lt;hr&gt; element is used to add a horizontal line or dividing line across the webpage
 
 -   [ ] The &lt;header&gt; element:

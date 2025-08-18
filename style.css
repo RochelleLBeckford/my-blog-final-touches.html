@@ -1,0 +1,86 @@
+body {
+    /* ~ Colors of my VS Code Theme -> Kawaii Gummy */
+    background-color: #393a55;
+    color: #ff9eb5;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-underline-offset: 3px;
+    background-color: #ff9eb5;
+    color: whitesmoke;
+}
+
+a {
+    color: #ff9eb5;
+}
+
+li {
+    list-style: none;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-underline-offset: 8px;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-underline-offset: 8px;
+}
+
+/* ~ Style and center the Figure element */
+figure {
+    text-align: center;
+}
+
+/* ~ Style the different images in the figure element */
+img {
+    width: 125px;
+    margin: 10px;
+}
+
+footer {
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+/* ~ Use Display Flex to arrange the list items in a row */
+.flex-list {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+/* ~ Create a flex container to arrange the list items in a row along with the rest of the elements in the footer */
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-container li {
+    margin: 10px;
+    padding: 10px;
+}
+
+/* ~ Change the color of the <hr> element */
+hr {
+    background-color: #ff9eb5;
+    height: 10px;
+    border: none;
+    width: 95%;
+    margin: auto;
+}
+
+.section-hr {
+    width: 25%;
+}

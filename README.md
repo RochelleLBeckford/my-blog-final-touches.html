@@ -66,3 +66,8 @@
   - [ ] CSS
 - [ ] HTML -> will be the structure and skeleton of how the app will appear on the webpage
 - [ ] CSS -> encompass the style of the app and give it some flare
+
+---
+
+- [ ] Link to visit the webpage:
+  - [ ] <a href="https://rlb-my-blog-final-touches.netlify.app/" target="_blank">rlb-my-blog-final-touches</a>
